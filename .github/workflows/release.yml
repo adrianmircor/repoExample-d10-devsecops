@@ -30,4 +30,4 @@ jobs:
         with:
           heroku_api_key: ${{ secrets.HEROKU_API_KEY }}
           heroku_app_name: "lit-wildwood-74084"
-          heroku_email: ""
+          heroku_email: "adrianmircor@gmail.com"
